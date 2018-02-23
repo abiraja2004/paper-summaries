@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Testing a post
+title: Human Level Concept Learning through probabilistic program induction
 ---
 
 <div class="message">
-  Howdy! This is test from spandan madan
+  
 </div>
 
