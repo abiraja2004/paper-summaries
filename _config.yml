@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Research Paper Summaries
 tagline:             'A simple blog summarizing interesting research papers!'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://spandan-madan.github.io
+# url:                 https://spandan-madan.github.io
 baseurl:             '/paper-summaries'
 paginate:            5
 gems: [jekyll-paginate]
