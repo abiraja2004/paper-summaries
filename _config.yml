@@ -5,10 +5,10 @@ permalink:           pretty
 
 # Setup
 title:               Research Paper Summaries
-tagline:             'by Spandan Madan'
+tagline:             'A simple blog summarizing interesting research papers!'
 description:         ''
-url:                 https://spandan-madan.github.io/paper-summaries/
-baseurl:             ''
+# url:                 https://spandan-madan.github.io
+baseurl:             '/paper-summaries'
 paginate:            5
 gems: [jekyll-paginate]
 paginate_path: "page:num"
