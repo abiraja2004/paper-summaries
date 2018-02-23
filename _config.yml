@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Research Paper Summaries
-tagline:             'A simple blog summarizing interesting research papers!'
+tagline:             'by Spandan Madan'
 description:         ''
 # url:                 https://spandan-madan.github.io
 baseurl:             '/paper-summaries'
