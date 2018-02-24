@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Research Paper Summaries</title>
- <link href="/paper-summaries/atom.xml" rel="self"/>
- <link href="/paper-summaries/"/>
- <updated>2018-02-23T18:42:30-05:00</updated>
- <id></id>
+ <link href="http://localhost:4000/paper-summaries/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/paper-summaries/"/>
+ <updated>2018-02-23T23:24:34-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Spandan Madan</name>
    <email>smadan@mit.edu</email>
@@ -13,14 +13,19 @@
 
  
  <entry>
-   <title>Testing a post</title>
-   <link href="/2018/02/22/Testing-a-post/"/>
+   <title>Human Level Concept Learning</title>
+   <link href="http://localhost:4000/2018/02/22/Testing-a-post/"/>
    <updated>2018-02-22T00:00:00-05:00</updated>
-   <id>/paper-summaries/2018/02/22/Testing-a-post</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is test from spandan madan
-&lt;/div&gt;
+   <id>http://localhost:4000/paper-summaries/2018/02/22/Testing-a-post</id>
+   <content type="html">&lt;p&gt;Let’s first start with a first pass of the paper. Broadly, here’s a rundown of the paper:&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Motivation: Humans learn from few examples, and can reuse learned concepts for diverse tasks. New ML algorithms find that hard.&lt;/li&gt;
+  &lt;li&gt;Approach: Present a ML framework which is inspired by 3 ideas in cognitive science - 1) compositionality, 2) causality, and 3) learning to learn.&lt;/li&gt;
+  &lt;li&gt;Assumptions:&lt;/li&gt;
+  &lt;li&gt;Contributions: A new framework which has causality built in, and learns compositionally. A new dataset (omniglot), which is like a transpose of the MNIST (few samples of many classes).&lt;/li&gt;
+  &lt;li&gt;Applications:&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
