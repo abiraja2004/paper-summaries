@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Human Level Concept Learning
+title: Human Level Concept Learning through probabilistic program induction
 ---
-
+<div class="message">
+<p> Paper in Science 2015 (Brendan Lake, Russlan Salakhutidnov, Josh Tenenbaum)</p>
+</div>
 Let's first start with a first pass of the paper. Broadly, here's a rundown of the paper:
  
 - Motivation: Humans learn from few examples, and can reuse learned concepts for diverse tasks. New ML algorithms find that hard. 
