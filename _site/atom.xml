@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Research Paper Summaries</title>
- <link href="/paper-summaries/atom.xml" rel="self"/>
- <link href="/paper-summaries/"/>
- <updated>2018-02-23T23:30:57-05:00</updated>
- <id></id>
+ <link href="http://localhost:4000/paper-summaries/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/paper-summaries/"/>
+ <updated>2018-02-23T23:58:21-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Spandan Madan</name>
    <email>smadan@mit.edu</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Human Level Concept Learning through probabilistic program induction</title>
-   <link href="/2018/02/22/Testing-a-post/"/>
+   <link href="http://localhost:4000/2018/02/22/Testing-a-post/"/>
    <updated>2018-02-22T00:00:00-05:00</updated>
-   <id>/paper-summaries/2018/02/22/Testing-a-post</id>
+   <id>http://localhost:4000/paper-summaries/2018/02/22/Testing-a-post</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
 &lt;p&gt; Paper in Science 2015 (Brendan Lake, Russlan Salakhutidnov, Josh Tenenbaum)&lt;/p&gt;
 &lt;/div&gt;
